@@ -1,1 +1,1 @@
-# # CS50W's Project0: Search
+# CS50W's Project0: Search
